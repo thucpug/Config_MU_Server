@@ -52644,7 +52644,7 @@
   },
   {
     "Id": 23031,
-    "Name": "Mảnh Giáp Rách",
+    "Name": "Mảnh Vỡ Áo Giáp",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52705,7 +52705,7 @@
   },
   {
     "Id": 23032,
-    "Name": "Trí Tuệ Nữ Thần",
+    "Name": "Bảo Hộ Nữ Thần",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52766,7 +52766,7 @@
   },
   {
     "Id": 23033,
-    "Name": "Móng Vuốt Dã Thú",
+    "Name": "Nanh Sói",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52827,7 +52827,7 @@
   },
   {
     "Id": 23034,
-    "Name": "Mảnh Sừng Vỡ",
+    "Name": "Mảnh Sừng",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -60086,7 +60086,7 @@
   },
   {
     "Id": 23153,
-    "Name": "Linh Hồn Sói Tinh (Phòng Thủ)",
+    "Name": "Sói Tinh - Phòng Thủ",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 24,
@@ -60147,7 +60147,7 @@
   },
   {
     "Id": 23154,
-    "Name": "Linh Hồn Sói Tinh (Công Kích)",
+    "Name": "Sói Tinh - Tấn Công",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 24,
